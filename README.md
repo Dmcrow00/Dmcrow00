@@ -1,5 +1,3 @@
-<h1 align="center">Hola, soy Ramiro 👋</h1>
-
 <p align="center">
   <b>Desarrollador Backend Java</b> · Estudiante avanzado de Ingeniería en Sistemas (UTN)<br>
   Rosario, Argentina 🇦🇷
