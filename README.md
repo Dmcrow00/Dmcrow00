@@ -70,7 +70,7 @@ Me interesa construir aplicaciones que resuelvan problemas concretos, por más s
 ### 📊 Actividad en GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Dmcrow00&show_icons=true&count_private=true&hide_border=true&theme=tokyonight" alt="Estadísticas de GitHub" height="165">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Dmcrow00&show_icons=true&count_private=true&hide_border=true&theme=tokyonight" alt="Estadísticas de GitHub" height="165">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dmcrow00&hide_border=true&theme=tokyonight" alt="Racha de contribuciones" height="165">
 </p>
 
